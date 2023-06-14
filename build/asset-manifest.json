@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fae319d1.css",
+    "main.js": "/static/js/main.3201eba0.js",
+    "static/media/usa.png": "/static/media/usa.98032cf6f2ac6cae51f0.png",
+    "static/media/perfume.svg": "/static/media/perfume.c1f01b19fb0821e62f92df8408f6f0cc.svg",
+    "static/media/email.svg": "/static/media/email.3510fcc025b9870ee4579e6df823de10.svg",
+    "static/media/instagram.svg": "/static/media/instagram.f080d3f0e94023cb1aaf876371786ccb.svg",
+    "static/media/twitter.svg": "/static/media/twitter.e955470e720146a92ec93d1b7ff30fc9.svg",
+    "static/media/mobile.svg": "/static/media/mobile.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/account.svg": "/static/media/account.eb634f4c3dd5e187be6b4224915be8b8.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4028f0f1540a7e6c847c9f6874350547.svg",
+    "index.html": "/index.html",
+    "static/media/bagofcash.svg": "/static/media/bagofcash.3f41624e13301407488c5a3bde1b21cd.svg",
+    "static/media/facebook.svg": "/static/media/facebook.c5523c69b36947e869f61f5739c619cd.svg",
+    "static/media/truck.svg": "/static/media/truck.e1d564924ba1328ec89a2d9f4c777995.svg",
+    "static/media/heart.svg": "/static/media/heart.40c4bb93f173ed25329096595cd76cbe.svg",
+    "static/media/shop.svg": "/static/media/shop.6bf103862b2a532ca84cb4a9b63b08c4.svg",
+    "static/media/profileIcon.svg": "/static/media/profileIcon.f9539a2c0f1c2ebcfeb668af1d8bb09f.svg",
+    "static/media/location.svg": "/static/media/location.41832ba25bb4186c5d65c792b9b91b94.svg",
+    "static/media/bag.svg": "/static/media/bag.325b7254568c192c504eeb8e2902588a.svg",
+    "static/media/plus.svg": "/static/media/plus.262702e73b7a49d9431afa6617b644c4.svg",
+    "static/media/minus.svg": "/static/media/minus.a4e4438d05ccefadfd63d236b64e59e3.svg",
+    "static/media/searchSVG.svg": "/static/media/searchSVG.abae8212f6a13de17c8d9844fb266d7e.svg",
+    "static/media/card.svg": "/static/media/card.d1fdd397f3cde1549db13e27f9d99ea0.svg",
+    "static/media/youtube.svg": "/static/media/youtube.1ed743dfc2d19c0f2922818c2893f53f.svg",
+    "static/media/cross.svg": "/static/media/cross.d69dc0dbf0bb1083a3026c61288b5b5f.svg",
+    "static/media/cart.svg": "/static/media/cart.bedc3308a0f66a343c32b7d224f38e57.svg",
+    "static/media/hamBtn.svg": "/static/media/hamBtn.17298ffc428e04f0c89e7260a731cb0d.svg",
+    "main.fae319d1.css.map": "/static/css/main.fae319d1.css.map",
+    "main.3201eba0.js.map": "/static/js/main.3201eba0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae319d1.css",
+    "static/js/main.3201eba0.js"
+  ]
+}
